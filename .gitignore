@@ -72,3 +72,6 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Packaging/WindowsNoEditor/Exo_Terra/Content/Paks/Exo_Terra-WindowsNoEditor.pak
+Packaging/WindowsNoEditor/Exo_Terra/Content/Movies/Space and Astronomy Film Video Intro_2.mp4
+Packaging/WindowsNoEditor/Manifest_NonUFSFiles_Win64.txt
